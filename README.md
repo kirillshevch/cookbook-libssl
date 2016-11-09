@@ -2,7 +2,7 @@
 
 ## Usage
 
-    cookbook 'libssl', '~> 1.0.0'
+    cookbook 'libssl', '~> 0.0.1'
 
 Just include `libssl` in your node's `run_list`:
 
